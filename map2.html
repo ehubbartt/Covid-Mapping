@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Map 1</title>
+
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+  <link href="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.css" rel="stylesheet">
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div id="map"></div>
+
+  <div class='map-overlay' id='legend'></div>
+  <div id='description'>
+    This map depicts the amount of Covid Cases across the US per county. Each circle size is proportional to the the
+    number of cases that are in that county. The circles are also colored by size.
+    <a
+      href="https://data.census.gov/cedsci/table?g=0100000US.050000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true">Source</a>
+  </div>
+  <div id="title">
+    Covid Cases per US County in 2020
+  </div>
+</body>
+
+<script src="./js/map2.js"></script>
+
+</html>

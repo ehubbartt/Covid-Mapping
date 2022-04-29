@@ -17,3 +17,5 @@ Since these maps are interactive you can head to the github pages url for this r
 [The New York Times](https://github.com/nytimes/covid-19-data/blob/43d32dde2f87bd4dafbb7d23f5d9e878124018b8/live/us-counties.csv) </br>
 [2018 ACS 5 year estimates](https://data.census.gov/cedsci/table?g=0100000US.050000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true) </br>
 [US Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+
+This project was done as an assignment for GEOG 458 at the University of Washington. [Here](https://github.com/jakobzhao/geog458) is the github page for this class.
